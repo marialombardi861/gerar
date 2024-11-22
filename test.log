@@ -14455,3 +14455,9 @@
 127.0.0.1 - - [22/Nov/2024 15:02:52] "[36mGET /static/vendors/chart.js/Chart.min.js HTTP/1.1[0m" 304 -
 127.0.0.1 - - [22/Nov/2024 15:02:53] "[36mGET /static/geojson/filtered_comuni.geojson HTTP/1.1[0m" 304 -
 127.0.0.1 - - [22/Nov/2024 15:02:53] "[36mGET /static/images/Logo.png HTTP/1.1[0m" 304 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 523-329-823
